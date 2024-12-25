@@ -17,10 +17,12 @@
 - **Handling Outliers**: Investigate and address any extreme values that could distort the clustering.
 
 ### Before Filterig Outliers
-![outliers](image.png)
+![image](https://github.com/user-attachments/assets/ad97345f-3e99-4cfe-b2d4-80bb41769e93)
+
 
 ### After filtering outliers
-![filter_outliers](image-1.png)
+![image](https://github.com/user-attachments/assets/d8cc02e7-f772-45f0-8aa0-bbe42dcfacfd)
+
 
 ### Customer Data after 
 
@@ -42,15 +44,18 @@
 
 ### 3D plot for feature after scaled
 
-![scaled_3d](image-2.png)
+![image](https://github.com/user-attachments/assets/776fbedc-3f13-43af-b50a-a7a82f3e9be6)
+
 
 ### choosing clusters amount
 
-![cluster_k](image-3.png)
+![image](https://github.com/user-attachments/assets/1ef88844-fe00-40f9-98ca-3d3146ac4af0)
+
 
 ### Pairplot for features
 
-![pairplot](image-4.png)
+![image](https://github.com/user-attachments/assets/61709308-fbf7-45ec-8a1e-f3757e8703b8)
+
 
 ### Cluster Descriptions
 
